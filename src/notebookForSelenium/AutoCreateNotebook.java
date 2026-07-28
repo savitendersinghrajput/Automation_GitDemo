@@ -12,7 +12,7 @@ public class AutoCreateNotebook {
 		System.out.println("4th change to test git using clone command");
 			System.out.println("5th change to test git GitStuff folder");
 			System.out.println("6th change to test develop branch");
-		//	System.out.println("7th change to test git GitStuff folder");
+			System.out.println("7th change to test git GitStuff folder");
 		//	System.out.println("8th change to test git GitStuff folder");
 
 
